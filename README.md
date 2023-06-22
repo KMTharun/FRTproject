@@ -7,7 +7,7 @@ This is a web based application developed for health related telugu based websit
 
 
 **Project Link** - https://salmon-cliff-056d92800.3.azurestaticapps.net/
-**project video link
+**project video link** - https://youtu.be/lOgmu1wO1nc
 
 ## Features and Functionalities 😃
 
